@@ -12,7 +12,7 @@ const LandingPage = () => {
     <div className='lp'>
       <div className='main'>
         <div className="hero">
-            <img src={hero}/>
+            <img src={hero}/ alt="hero">
         </div>
         <div className='text-p'>
             <p>Streamline bill splitting with ease. Our app simplifies sharing expenses among friends, ensuring fairness and simplicity. Enjoy moments together without the hassle.</p>
